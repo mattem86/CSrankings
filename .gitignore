@@ -3,3 +3,7 @@ articles.json
 homepages.csv
 scholar.csv
 util/__pycache__/*
+csrankings.csv
+dblp-aliases.csv
+generated-author-info.csv
+turing.csv
